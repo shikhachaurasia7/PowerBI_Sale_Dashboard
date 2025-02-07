@@ -12,7 +12,7 @@ Built a visually appealing and interactive dashboard using Power BI.
 Included slicers for year selection and interactive charts for better user experience.
 
 ## Dashboard
-![Screenshot Sales Dashboard](https://github.com/shikhachaurasia7/PowerBI_Superstore_sales_Dashboard/blob/main/Screenshot%20%20Superstore%20Sales%20PowrBI%20Dashboard.png)
+![Sales Dashboard](https://github.com/shikhachaurasia7/PowerBI_Sale_Dashboard/blob/main/Screenshot%202025-02-07%20180928.png)
 
 ## Project Insights:
 ## Sales and Profit Overview:
